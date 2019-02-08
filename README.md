@@ -1,5 +1,4 @@
 # Baking-Website
-#Questioner
 Summary
 Baking Website is designed towards making orders on baked goods, rating baked items and sharing baking ideas..
 
@@ -25,7 +24,7 @@ Open the index.html file
 Go through the different UI links to view the various pages and features
 
 #Authors
-MUdanya Brian
+Mudanya Brian
 
 #Contribution
 For this repository, contribute, and create a pull request to this repo's gh-pages branch.
